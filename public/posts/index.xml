@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Семейный архив</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on Семейный архив</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ru-ru</language>
+        <lastBuildDate>Sun, 24 Aug 2025 21:48:31 +0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Семейный архив</title>
+        <link>http://localhost:1313/posts/first/</link>
+        <pubDate>Sun, 24 Aug 2025 21:48:31 +0700</pubDate>
+        
+        <guid>http://localhost:1313/posts/first/</guid>
+        <description>&lt;p&gt;Это наш семейный архив.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
