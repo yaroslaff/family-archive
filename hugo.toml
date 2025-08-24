@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://family-archive.pages.dev/'
 languageCode = 'ru-ru'
-title = 'Семейный архив'
+title = 'Семейный архив Поляковых, Малетиных, Каратаевых, Зориных'
 theme = 'hugo-theme-stack'

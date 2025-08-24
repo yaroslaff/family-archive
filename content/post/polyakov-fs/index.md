@@ -9,6 +9,6 @@ tags = ['Поляков Федор Семенович']
 
 Прадед - Поляков Федор Семенович (Отец Полякова Николая Федоровича)
 
-!()[polyakov-fs1.jpeg]
-!()[polyakov-fs2.jpeg]
-!()[polyakov-fs3.jpeg]
+![](polyakov-fs1.jpeg)
+![](polyakov-fs2.jpeg)
+![](polyakov-fs3.jpeg)
