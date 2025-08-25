@@ -2,3 +2,11 @@ baseURL = 'https://family-archive.pages.dev/'
 languageCode = 'ru-ru'
 title = 'Семейный архив Поляковых, Малетиных, Каратаевых, Зориных'
 theme = 'hugo-theme-stack'
+
+[params.sidebar]
+    subtitle = "А чтоб стоять я должен держаться корней"
+
+[params.sidebar.avatar]
+  enabled = true
+  local   = true
+  src     = "images/logo.png"
